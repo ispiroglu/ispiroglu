@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **evrenn.ispiroglu@gmail.com**
 
-- ⚡ Fun fact **I play guitar, take photos and code some**
+- ⚡ Fun fact **I play guitar, take photos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
