@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Evren Ispiroglu</h1>
 <h3 align="center">Undergrad at Yildiz Technical University, Computer Science</h3>
 
-- 🔭 I’m currently learning **Spring, Angular**
+- 🔭 I’m currently learning **Spring, Kotlin, Asynchronous Programming, Microservices**
 
 - 📝 I regularly write articles on [https://medium.com/@ispiroglu](https://medium.com/@ispiroglu)
 
